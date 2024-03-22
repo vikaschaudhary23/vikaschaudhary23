@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Chaudhary</h1>
-<h3 align="center">A passionate Data Analyst and Software Developer from India</h3>
+<h3 align="center">A passionate Data Analyst, FrontEnd Developer, Programmer, and Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 💬 Ask me about **AI, ML, SDE, DSA**
+- 💬 Ask me about **AI, ML, SDE, DSA, FrontEnd Development**
 
 - 📫 How to reach me **vikaschaudhary2309@gmail.com**
 
