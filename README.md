@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikas Chaudhary</h1>
-<h3 align="center">A passionate Data Analyst, FrontEnd Developer, Programmer, and Software Developer from India</h3>
+<h3 align="center">A passionate Data Scientist, FrontEnd Developer, Programmer, and Software Developer from India</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikas-chaudhary-1282471ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-chaudhary-1282471ba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikaschaudhary23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas-chaudhary-1282471ba" height="30" width="40" /></a>
 <a href="https://instagram.com/__vikas_chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__vikas_chaudhary" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_201550148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_201550148" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vikas_chaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_chaudhary" height="30" width="40" /></a>
